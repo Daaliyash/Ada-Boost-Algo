@@ -1,1 +1,1 @@
-# Ada-Boost-Algo
+# Ada-Boost for disease prediction
